@@ -1,6 +1,6 @@
 # JSF
 
-**JSF** is a JavaScript parser for the [**Ceedoku Save Format (CSF)**](https://ceedoku.github.io/CSF-Spec-1.0.pdf).
+**JSF** is a JavaScript parser for the [**Ceedoku Save Format (CSF)**.](https://ceedoku.github.io/CSF-Spec-1.0.pdf)
 
 It takes a `.csf` file and converts it into the JSON string represented by that file.
 
