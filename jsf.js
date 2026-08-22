@@ -1,3 +1,4 @@
+// pls link to jsf here if u want to be a nice person, this is not required tho
 const JSF = (() => {
 
     const HEADER = "CEEDOKU-CSF/1";
